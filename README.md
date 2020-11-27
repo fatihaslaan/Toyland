@@ -1,6 +1,6 @@
 # Toyland
-Important scripts of our group game which we did in Seed Game Jam
-Group Members:
-Fatih Aslan
-Fatih Enis Kaya
-Onur Osman Güle
+Important scripts of our group game which we did in Seed Game Jam <br />
+Group Members: <br />
+Fatih Aslan <br />
+Fatih Enis Kaya <br />
+Onur Osman Güle <br />
